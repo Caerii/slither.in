@@ -14,8 +14,8 @@ Yes, it’s serious. No, the worms aren’t.
 ## Play locally (Vite)
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 Then open `http://localhost:3000`.
@@ -26,7 +26,7 @@ This repo is a monorepo-ish situation: the app lives in the `slither.in/` folder
 
 - **Root Directory**: `slither.in`
 - **Framework**: Vite
-- **Build Command**: `npm run build`
+- **Build Command**: `pnpm run build`
 - **Output Directory**: `dist`
 
 ## Open source

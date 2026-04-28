@@ -13,11 +13,11 @@ The actual Vite app is in the `slither.in/` directory.
 
 ```bash
 cd slither.in
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ## Deploy (Vercel)
 
-Set Vercel **Root Directory** to `slither.in`, then build normally (`npm run build`) with output `dist`.
+Set Vercel **Root Directory** to `slither.in`, then build normally (`pnpm run build`) with output `dist`.
 
